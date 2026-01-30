@@ -1,7 +1,7 @@
 # Welcome to Tipsy On Life
 
 <div class="hero">
-  <img src="assets/images/hero-home.svg" alt="Welcome to Tipsy On Life" class="hero-image" />
+  <img src="assets/images/hero-home.svg" alt="" class="hero-image" />
 </div>
 
 ## About This Site

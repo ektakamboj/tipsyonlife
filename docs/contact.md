@@ -1,7 +1,7 @@
 # Contact
 
 <div class="hero">
-  <img src="assets/images/hero-contact.svg" alt="Get In Touch" class="hero-image" />
+  <img src="assets/images/hero-contact.svg" alt="" class="hero-image" />
 </div>
 
 ## Get In Touch
@@ -36,12 +36,14 @@ I'd love to hear from you! Whether you have questions, feedback, or just want to
   </form>
 </div>
 
-!!! info "Note About Form"
-    The contact form above uses Formspree as a backend service. To make it functional, you'll need to:
+!!! warning "Form Configuration Required"
+    The contact form above uses Formspree as a backend service. **This form will not work until configured.**
+    
+    To make it functional:
     
     1. Sign up at [Formspree.io](https://formspree.io)
     2. Create a new form
-    3. Replace `YOUR_FORM_ID` in the form action with your actual form ID
+    3. Replace `YOUR_FORM_ID` in the form action URL with your actual form ID
     
     Alternatively, you can use other services like Netlify Forms, Google Forms, or implement your own backend.
 

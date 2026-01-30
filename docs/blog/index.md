@@ -1,7 +1,7 @@
 # Blog
 
 <div class="hero">
-  <img src="../assets/images/hero-blog.svg" alt="Blog" class="hero-image" />
+  <img src="../assets/images/hero-blog.svg" alt="" class="hero-image" />
 </div>
 
 ## Latest Posts
